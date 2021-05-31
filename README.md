@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning ...React
 - 🤔 I’m looking for help with ...Data Structures and Algorithms 😭
 - 💬 Ask me about ...Anything
-- 📫 How to reach me: ...email : harshwardhankalse03@gmail.com,
+- 📫 How to reach me: ... harshwardhankalse03@gmail.com,
 - ⚡ Fun fact: ...I allways thought coding is not for me but just like they say You don't get it unless You try it 😎
 <br />
 <br />
