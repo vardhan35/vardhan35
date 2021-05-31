@@ -2,9 +2,12 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vardhan35" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="vardhan35" height="30" width="40" /></a>
-<a href="https://instagram.com/vardhan3_5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="vardhan3_5" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vardhan35/">
+  <img align="left" alt="Vardhan's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/vardhan3_5/">
+  <img align="left" alt="Vardhan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 </p>
 
 - 🌱 I’m currently learning ...React
