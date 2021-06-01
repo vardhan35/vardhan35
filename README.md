@@ -16,7 +16,7 @@
 - 🤔 I’m looking for help with ...Data Structures and Algorithms 😭
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: ... harshwardhankalse03@gmail.com,
-- ⚡ Fun fact: ...I allways thought coding is not for me but just like they say You don't get it unless You try it 😎
+<!-- - ⚡ Fun fact: ...I allways thought coding is not for me but just like they say You don't get it unless You try it 😎 -->
 <br />
 <br />
 
